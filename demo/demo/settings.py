@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "myapp"  # connecting django app(myapp) to the project
 ]
 
 MIDDLEWARE = [
